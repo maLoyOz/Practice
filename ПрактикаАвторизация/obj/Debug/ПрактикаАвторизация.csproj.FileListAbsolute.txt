@@ -1,0 +1,34 @@
+C:\Users\Илья\Desktop\Курсы C#\ПрактикаАвторизация\ПрактикаАвторизация\bin\Debug\ПрактикаАвторизация.exe.config
+C:\Users\Илья\Desktop\Курсы C#\ПрактикаАвторизация\ПрактикаАвторизация\bin\Debug\ПрактикаАвторизация.exe
+C:\Users\Илья\Desktop\Курсы C#\ПрактикаАвторизация\ПрактикаАвторизация\bin\Debug\ПрактикаАвторизация.pdb
+C:\Users\Илья\Desktop\Курсы C#\ПрактикаАвторизация\ПрактикаАвторизация\bin\Debug\MetroFramework.dll
+C:\Users\Илья\Desktop\Курсы C#\ПрактикаАвторизация\ПрактикаАвторизация\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Илья\Desktop\Курсы C#\ПрактикаАвторизация\ПрактикаАвторизация\obj\Debug\ПрактикаАвторизация.csproj.AssemblyReference.cache
+C:\Users\Илья\Desktop\Курсы C#\ПрактикаАвторизация\ПрактикаАвторизация\obj\Debug\ПрактикаАвторизация.csproj.SuggestedBindingRedirects.cache
+C:\Users\Илья\Desktop\Курсы C#\ПрактикаАвторизация\ПрактикаАвторизация\obj\Debug\ПрактикаАвторизация.MainForm.resources
+C:\Users\Илья\Desktop\Курсы C#\ПрактикаАвторизация\ПрактикаАвторизация\obj\Debug\ПрактикаАвторизация.LoginForm.resources
+C:\Users\Илья\Desktop\Курсы C#\ПрактикаАвторизация\ПрактикаАвторизация\obj\Debug\ПрактикаАвторизация.Properties.Resources.resources
+C:\Users\Илья\Desktop\Курсы C#\ПрактикаАвторизация\ПрактикаАвторизация\obj\Debug\ПрактикаАвторизация.csproj.GenerateResource.cache
+C:\Users\Илья\Desktop\Курсы C#\ПрактикаАвторизация\ПрактикаАвторизация\obj\Debug\ПрактикаАвторизация.csproj.CoreCompileInputs.cache
+C:\Users\Илья\Desktop\Курсы C#\ПрактикаАвторизация\ПрактикаАвторизация\obj\Debug\ПрактикаАвторизация.csproj.CopyComplete
+C:\Users\Илья\Desktop\Курсы C#\ПрактикаАвторизация\ПрактикаАвторизация\obj\Debug\ПрактикаАвторизация.exe
+C:\Users\Илья\Desktop\Курсы C#\ПрактикаАвторизация\ПрактикаАвторизация\obj\Debug\ПрактикаАвторизация.pdb
+C:\Users\Илья\Desktop\Курсы C#\ПрактикаАвторизация\ПрактикаАвторизация\obj\Debug\ПрактикаАвторизация.FormAddClass.resources
+C:\Users\Илья\Desktop\Авторизация\ПрактикаАвторизация\ПрактикаАвторизация\bin\Debug\ПрактикаАвторизация.exe.config
+C:\Users\Илья\Desktop\Авторизация\ПрактикаАвторизация\ПрактикаАвторизация\bin\Debug\ПрактикаАвторизация.exe
+C:\Users\Илья\Desktop\Авторизация\ПрактикаАвторизация\ПрактикаАвторизация\bin\Debug\ПрактикаАвторизация.pdb
+C:\Users\Илья\Desktop\Авторизация\ПрактикаАвторизация\ПрактикаАвторизация\bin\Debug\MetroFramework.dll
+C:\Users\Илья\Desktop\Авторизация\ПрактикаАвторизация\ПрактикаАвторизация\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Илья\Desktop\Авторизация\ПрактикаАвторизация\ПрактикаАвторизация\obj\Debug\ПрактикаАвторизация.csproj.AssemblyReference.cache
+C:\Users\Илья\Desktop\Авторизация\ПрактикаАвторизация\ПрактикаАвторизация\obj\Debug\ПрактикаАвторизация.csproj.SuggestedBindingRedirects.cache
+C:\Users\Илья\Desktop\Авторизация\ПрактикаАвторизация\ПрактикаАвторизация\obj\Debug\ПрактикаАвторизация.FormAddClass.resources
+C:\Users\Илья\Desktop\Авторизация\ПрактикаАвторизация\ПрактикаАвторизация\obj\Debug\ПрактикаАвторизация.MainForm.resources
+C:\Users\Илья\Desktop\Авторизация\ПрактикаАвторизация\ПрактикаАвторизация\obj\Debug\ПрактикаАвторизация.LoginForm.resources
+C:\Users\Илья\Desktop\Авторизация\ПрактикаАвторизация\ПрактикаАвторизация\obj\Debug\ПрактикаАвторизация.Properties.Resources.resources
+C:\Users\Илья\Desktop\Авторизация\ПрактикаАвторизация\ПрактикаАвторизация\obj\Debug\ПрактикаАвторизация.csproj.GenerateResource.cache
+C:\Users\Илья\Desktop\Авторизация\ПрактикаАвторизация\ПрактикаАвторизация\obj\Debug\ПрактикаАвторизация.csproj.CoreCompileInputs.cache
+C:\Users\Илья\Desktop\Авторизация\ПрактикаАвторизация\ПрактикаАвторизация\obj\Debug\ПрактикаАвторизация.csproj.CopyComplete
+C:\Users\Илья\Desktop\Авторизация\ПрактикаАвторизация\ПрактикаАвторизация\obj\Debug\ПрактикаАвторизация.exe
+C:\Users\Илья\Desktop\Авторизация\ПрактикаАвторизация\ПрактикаАвторизация\obj\Debug\ПрактикаАвторизация.pdb
+C:\Users\Илья\Desktop\Авторизация\ПрактикаАвторизация\ПрактикаАвторизация\obj\Debug\ПрактикаАвторизация.StudentsForm.resources
+C:\Users\Илья\Desktop\Авторизация\ПрактикаАвторизация\ПрактикаАвторизация\obj\Debug\ПрактикаАвторизация.RegisterForm.resources
